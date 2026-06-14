@@ -1,0 +1,5 @@
+# Getting-started notebooks use only the Python standard library + requests.
+requests>=2.31
+
+# To run the notebooks locally:
+jupyter
