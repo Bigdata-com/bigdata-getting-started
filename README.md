@@ -9,7 +9,6 @@ the patterns translate to any language.
 
 | # | Notebook | What you'll learn |
 |---|----------|-------------------|
-| 00 | [`00_hello_world.ipynb`](notebooks/00_hello_world.ipynb) | One call, end-to-end: search the corpus and read results |
 | 01 | [`01_setup_and_authentication.ipynb`](notebooks/01_setup_and_authentication.ipynb) | Register, create an API key, authenticate |
 | 02 | [`02_knowledge_graph.ipynb`](notebooks/02_knowledge_graph.ipynb) | Find companies by details; resolve by ISIN/CUSIP/SEDOL/listing |
 | 03 | [`03_search.ipynb`](notebooks/03_search.ipynb) | Fast vs. smart search; entity/keyword/sentiment/date/type filters |
